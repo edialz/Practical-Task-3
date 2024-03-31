@@ -1,3 +1,8 @@
+# Constants for time thresholds
+PROVINCIAL_COLOURS_MAX_TIME = 100
+PROVISIONAL_HALF_COLOURS_MAX_TIME = 105
+PROVINCIAL_SCROLL_MAX_TIME = 110
+
 swimming_time = int(input("Enter swimming time. "))
 cycling_time = int(input("Enter cycling time. "))
 running_time = int(input("Enter running time. "))
